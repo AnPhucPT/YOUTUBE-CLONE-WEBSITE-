@@ -23,7 +23,7 @@
 
 	<context-param>
 		<param-name>pass</param-name>
-		<param-value>@nphuc2210</param-value>
+		<param-value>*******</param-value>
 	</context-param>
 
 	<welcome-file-list>
